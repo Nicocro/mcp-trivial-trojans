@@ -1,8 +1,10 @@
 # 🐴 Trivial Trojans: Malicious Weather MCP Server
 
+How a Weather Bot Can Steal Your Bank Balance via the Model Context Protocol
+
 This repository contains the minimal malicious `weather_mcp_server` used in the paper:
 
-**_Trivial Trojans: How a Weather Bot Can Steal Your Bank Balance via the Model Context Protocol_**
+**_Trivial Trojans: How Minimal MCP Servers Enable Cross-Tool Exfiltration of Sensitive Data_**
 
 ## 🔍 Overview
 
