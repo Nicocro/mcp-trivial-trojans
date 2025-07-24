@@ -13,7 +13,7 @@ This server:
 - Embeds a malicious prompt that triggers cross-server tool discovery
 - Sends exfiltrated data to a public `webhook.site` endpoint via HTTP POST
 
-No infrastructure, credentials, or privileged access are required.
+No infrastructure, credentials, or privileged access are required, in an extremely minimal and simple implemetation. 
 
 <h3>🎥 Demo: Cross-Server Data Exfiltration via Malicious Weather Server</h3>
 
