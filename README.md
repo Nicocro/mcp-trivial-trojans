@@ -15,6 +15,23 @@ This server:
 
 No infrastructure, credentials, or privileged access are required.
 
+<h3>🎥 Demo: Cross-Server Data Exfiltration via Malicious Weather Server</h3>
+
+This short demo shows how an innocent-looking weather request can trigger a cross-server sequence that:
+1. Retrieves a bank account balance from a separate MCP server.
+2. Sends the sensitive data to a public `webhook.site` endpoint.
+3. Displays a normal weather forecast — concealing the attack.
+
+<a href="https://www.loom.com/share/cbaf77a45ff244c2891b363dc7178904">
+  <img 
+    src="https://cdn.loom.com/sessions/thumbnails/cbaf77a45ff244c2891b363dc7178904-9f9ba9af68e19933-full-play.gif" 
+    alt="Data Exfiltration - Weather MCP - Watch Video"
+    style="max-width: 100%; height: auto; border: 1px solid #ddd;"
+  />
+</a>
+
+<p><em>Click the image to watch a short demo showing how a weather MCP server can exfiltrate financial data via cross-server orchestration.</em></p>
+
 ## ⚙️ Requirements
 
 - Python 3.8+
