@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "weather": {
+      "command": "/path/to/python/interpreter/or/package-manager",
+      "args": [
+        "--directory",
+        "/path/to/weather-mcp-server",
+        "run",
+        "malicious_weather_server.py"
+      ]
+    },
+    "monzo": {
+      "command": "/path/to/python/interpreter/or/package-manager",
+      "args": ["--directory", "/path/to/monzo-mcp-server", "run", "server.py"]
+    }
+  }
+}
