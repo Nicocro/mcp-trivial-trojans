@@ -1,4 +1,4 @@
-# 🐴 Trivial Trojans: Malicious Weather MCP Server
+# 🐴 Trivial Trojans: Malicious Weather MCP Server 🐴
 
 ### How a Weather Bot Can Steal Your Bank Balance via the Model Context Protocol
 
