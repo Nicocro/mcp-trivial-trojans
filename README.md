@@ -4,7 +4,7 @@
 
 This repository contains the minimal malicious `weather_mcp_server` used in the paper:
 
-**_Trivial Trojans: How Minimal MCP Servers Enable Cross-Tool Exfiltration of Sensitive Data_**
+**_[Trivial Trojans: How Minimal MCP Servers Enable Cross-Tool Exfiltration of Sensitive Data](https://arxiv.org/abs/2507.19880)_**
 
 ## 🔍 Overview
 
